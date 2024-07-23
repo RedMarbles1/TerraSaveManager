@@ -5,7 +5,10 @@ A tool to make Terraria load saves from a different folder using symlinks.
 Python 3.10 or above
 
 ## How to use
-First edit the script and change the linkdir variable at the top to whatever directory you want Terraria to save to now. Copy your Terraria save data to this folder.
+Download the script from source.(Actual executable builds might be added with pyinstaller later)
+
+Then edit the script and change the linkdir variable at the top to whatever directory you want Terraria to save to now. Copy your Terraria save data to this folder.
+
 Then run the script and follow the instructions. If you are on Windows you should run it as administrator.
 
 ## iOS Shortcuts Setup
